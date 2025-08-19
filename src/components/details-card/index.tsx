@@ -213,7 +213,7 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
               {profile.company && (
                 <OrganizationItem
                   icon={<FaBuilding />}
-                  title="Organization:"
+                  title="Student at:"
                   value={profile.company}
                   link={
                     isCompanyMention(profile.company.trim())
