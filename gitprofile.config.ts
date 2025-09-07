@@ -30,11 +30,13 @@ const CONFIG = {
         // Properties for manually specifying projects
         // The order of repositories in this array determines the display order.
         projects: [
+		  'stavspirid/Microprocessors-and-Peripherals',
           'stavspirid/fp-mult-IEEE754-SV',
           'stavspirid/HW1-ECE-AUTh',
           'stavspirid/DICD-TUe-VLSI',
           'stavspirid/Helmetino',
           'gsklaven/MusePath',
+		  'stavspirid/pokerbot',
           'stavspirid/Constellation-Modeling',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
