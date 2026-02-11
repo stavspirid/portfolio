@@ -151,7 +151,7 @@ const CONFIG = {
       conferenceName: 'IAC 2025',
       journalName: '',
       authors: '',
-      link: 'https://raw.githubusercontent.com/stavspirid/portfolio/main/resources/IAC_2025_Abstract.pdf',
+      link: 'https://raw.githubusercontent.com/stavspirid/portfolio/main/resources/IAC_2025_PRIMAVERA_paper.pdf',
       description:
         'The abstract accepted at IAC 2025, which describes the Phase-0 design of a Venusian Mission, named PRIMAVERA during ESA Academy\'s Concurrent Engineering Workshop.',
     },
