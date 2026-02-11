@@ -66,7 +66,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Stavros Spyridopoulos', description: 'Engineering and Space Enthusiast', imageURL: '' },
   social: {
-    linkedin: 'stavros-spiridopoulos-669259238',
+    linkedin: 'stavros-spyridopoulos',
     gitlab: 'stavspirid',
     leetcode: 'stavspirid',
     github: 'stavspirid',
